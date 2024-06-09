@@ -13,7 +13,7 @@ This script organizes files in the current directory based on their file extensi
 3. Run the following command:
 
     ```
-    node file_organizer.js
+    node FileExtensionOrganizer.js
     ```
 
 4. The script will create directories for each file extension found in the current directory and move corresponding files into their respective directories.
